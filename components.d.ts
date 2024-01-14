@@ -8,5 +8,6 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     Converter: typeof import('./src/components/Converter.vue')['default']
+    ConverterDecimal: typeof import('./src/components/ConverterDecimal.vue')['default']
   }
 }
