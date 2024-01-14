@@ -20,11 +20,12 @@ O Bin2Dec Converter é uma aplicação web que permite aos usuários inserir nú
 
 ## Como Executar o Projeto
 
-1. Clone este repositório: `git clone https://seu-repositorio.git`
-2. Instale as dependências: `npm install`
-3. Execute a aplicação: `npm run serve`
+1. Clone este repositório: `git clone https://github.com/emanoelCarvalho/binary-to-decimal-converter.git`
+2. Navegue até o repositório: `cd binary-to-decimal-converter`
+3. Instale as dependências: `npm install`
+4. Execute a aplicação: `npm run dev`
 
-Acesse a aplicação em [http://localhost:8080](http://localhost:8080).
+Acesse a aplicação em [http://localhost:3000](http://localhost:3000).
 
 ## Contribuição
 
