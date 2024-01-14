@@ -35,7 +35,7 @@ Sinta-se à vontade para contribuir, relatar problemas ou fazer sugestões. Seja
 
 Este projeto foi inspirado pelo desafio "Bin2Dec" do repositório [app-ideas](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md).
 
-## Links Rápidos
+## Contate-me
 
 - [GitHub](https://github.com/emanoelCarvalho)
 - [LinkedIn](https://www.linkedin.com/in/emanoelCarvalho/)
